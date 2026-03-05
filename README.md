@@ -76,15 +76,15 @@ SQL을 활용하여 월별 매출, 주문수, 객단가를 계산했습니다.
 
 ### 월별 매출 추이
 
-Monthly Sales Trend
+![Monthly Sales Trend](result/monthly_sales_trend.png)
 
 ### 국가별 매출 분포
 
-Country Sales
+![Country Sales](result/country_sales.png)
 
 ### 상위 고객 매출
 
-Top Customers
+![Top Customers](result/top_customers.png)
 
 ---
 
