@@ -1,3 +1,4 @@
+
 # Sales Decline Analysis
 
 ## Project Goal
@@ -34,3 +35,6 @@ Monthly sales trend was visualized using Python.
 
 ## Project Structure
 data / sql / python / result / README
+
+# sales_decline_analysis
+
