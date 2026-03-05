@@ -1,0 +1,9 @@
+Main Insights
+
+1. Monthly sales trend shows strong growth in Q4.
+
+2. Order count has larger impact on sales than average order value.
+
+3. Seasonal demand is visible around November.
+
+4. The December decline is due to incomplete data rather than real demand drop.
