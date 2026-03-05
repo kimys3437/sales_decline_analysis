@@ -32,6 +32,9 @@ Sales = Order Count ¡¿ Average Order Value
 
 ## Visualization
 Monthly sales trend was visualized using Python.
+![sales](result/monthly_sales_trend.png)
+![country](result/country_sales.png)
+![top_customers](result/top_customers.png)
 
 ## Project Structure
 data / sql / python / result / README
